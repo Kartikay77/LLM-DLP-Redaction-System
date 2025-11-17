@@ -87,7 +87,7 @@ User Input ────────────▶ │ Inference Engine │ ─�
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/LLM-DLP-Redaction-System.git
+git clone https://github.com/Kartikay77/LLM-DLP-Redaction-System.git
 cd LLM-DLP-Redaction-Syste
 ```
 
